@@ -1,0 +1,8 @@
+# Crée un menu
+
+    RageUI.CreateMenu(Title, Subtitle)
+    
+# Quelque explication
+
+  - Title = Titre du Menu
+  - Subtitls = Description du menu
